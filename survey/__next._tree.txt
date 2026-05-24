@@ -1,4 +1,4 @@
-:HL["/tvsoga-flowring/_next/static/chunks/0hxo5q4_.gtcs.css","style"]
+:HL["/tvsoga-flowring/_next/static/chunks/0e9c2ybbemtm-.css","style"]
 :HL["/tvsoga-flowring/assets/images/product/official/flow-ring-black-logo.jpg","image"]
 :HL["/tvsoga-flowring/images2/survey-ai-tools.png","image"]
 :HL["/tvsoga-flowring/images2/survey-input-pain.png","image"]
@@ -6,4 +6,4 @@
 :HL["/tvsoga-flowring/images2/survey-specs.png","image"]
 :HL["/tvsoga-flowring/images2/survey-pricing.png","image"]
 :HL["/tvsoga-flowring/images2/survey-cocreation.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"survey","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Ez0RhSX6wWdUjlj4t1ElN"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"survey","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"U_etKdeR57Nry7cFIabRW"}
