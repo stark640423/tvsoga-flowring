@@ -1,2 +1,2 @@
-:HL["/tvsoga-flowring/_next/static/chunks/0i-1ciw9l5~l_.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"oWXxXU7Wuu6T9UdPJUyoJ"}
+:HL["/tvsoga-flowring/_next/static/chunks/0qnei_h.bl-f0.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"V99pm61rONP5875mZHxs_"}
